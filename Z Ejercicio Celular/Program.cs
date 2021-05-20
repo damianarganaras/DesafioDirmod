@@ -6,10 +6,10 @@ namespace Z_Ejercicio_Celular
     {
         static void Main(string[] args)
         {
-            ProcesarTexto hola = new ProcesarTexto();
+            ProcesarTexto procesadorTexto = new ProcesarTexto();
             Console.WriteLine("Ingrese el texto: ");
             string texto = Console.ReadLine();
-            string resultado = hola.teclas(texto);
+            string resultado = procesadorTexto.teclas(texto);
             Console.WriteLine("La secuencia resultantes es: "+resultado);
         }
     }
