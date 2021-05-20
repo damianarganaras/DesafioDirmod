@@ -1,0 +1,16 @@
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\obj\Debug\net5.0\Z Ejercicio Celular.csprojAssemblyReference.cache
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\obj\Debug\net5.0\Z Ejercicio Celular.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\obj\Debug\net5.0\Z Ejercicio Celular.AssemblyInfoInputs.cache
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\obj\Debug\net5.0\Z Ejercicio Celular.AssemblyInfo.cs
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\obj\Debug\net5.0\Z Ejercicio Celular.csproj.CoreCompileInputs.cache
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\bin\Debug\net5.0\Z Ejercicio Celular.exe
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\bin\Debug\net5.0\Z Ejercicio Celular.deps.json
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\bin\Debug\net5.0\Z Ejercicio Celular.runtimeconfig.json
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\bin\Debug\net5.0\Z Ejercicio Celular.runtimeconfig.dev.json
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\bin\Debug\net5.0\Z Ejercicio Celular.dll
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\bin\Debug\net5.0\ref\Z Ejercicio Celular.dll
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\bin\Debug\net5.0\Z Ejercicio Celular.pdb
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\obj\Debug\net5.0\Z Ejercicio Celular.dll
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\obj\Debug\net5.0\ref\Z Ejercicio Celular.dll
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\obj\Debug\net5.0\Z Ejercicio Celular.pdb
+D:\Facultad\CURSO .Net React\CursosUdemy\Ejercicios\Z Ejercicio Celular\obj\Debug\net5.0\Z Ejercicio Celular.genruntimeconfig.cache
