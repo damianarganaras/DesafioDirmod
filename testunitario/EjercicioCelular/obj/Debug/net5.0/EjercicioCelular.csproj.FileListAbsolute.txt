@@ -1,0 +1,32 @@
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular.deps.json
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular.runtimeconfig.json
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular.runtimeconfig.dev.json
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular.dll
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/bin/Debug/net5.0/ref/EjercicioCelular.dll
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular.pdb
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.csprojAssemblyReference.cache
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.GeneratedMSBuildEditorConfig.editorconfig
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.AssemblyInfoInputs.cache
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.AssemblyInfo.cs
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.csproj.CoreCompileInputs.cache
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.dll
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/obj/Debug/net5.0/ref/EjercicioCelular.dll
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.pdb
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/carpeta del test unitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.genruntimeconfig.cache
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular.deps.json
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular.runtimeconfig.json
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular.runtimeconfig.dev.json
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular.dll
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/bin/Debug/net5.0/ref/EjercicioCelular.dll
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/bin/Debug/net5.0/EjercicioCelular.pdb
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.csprojAssemblyReference.cache
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.GeneratedMSBuildEditorConfig.editorconfig
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.AssemblyInfoInputs.cache
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.AssemblyInfo.cs
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.csproj.CoreCompileInputs.cache
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.dll
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/obj/Debug/net5.0/ref/EjercicioCelular.dll
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.pdb
+/home/aceleradora04/apps/repos/CursosUdemy/Ejercicios/Z Ejercicio Celular/testunitario/EjercicioCelular/obj/Debug/net5.0/EjercicioCelular.genruntimeconfig.cache
